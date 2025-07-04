@@ -1,5 +1,4 @@
 Notes:
 
-- This is a draft
-- I am currently unable to put the .shp file into the repo, rendering the biome data useless
-- Some features are not currently usable and cannot be fixed until later today (3pm PST).
+- I was unable to write a script to access the .shp file, but steps to access the .shp file for metadata augmentation is included in the notebook
+- At this current stage, there isn't an interpretable flagging system, as I spent most of my time generating metadata
